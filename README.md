@@ -25,3 +25,6 @@ for different finite-horizon MDP structures.
 
 ### Approach
 ![Algorithms](docs/algorithms.png)
+
+### Getting Started
+Each algorithm is saved in a separate Matlab file in the `src` directory. The results are collected in a zip file in the `results` directory. Download a zip of the project or clone it to your local machine to open the files in Matlab and run the algorithms.
