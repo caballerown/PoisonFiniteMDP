@@ -26,15 +26,15 @@ for different finite-horizon MDP structures.
 ### Approach
 ![Algorithms](docs/algorithms.png)
 
-1. LimitedBI.m
-2. LimitedBISmooth.m
-3. Reverse Mode Automatic Differentiation
-4. PoisonFiniteMDP_GradientDescent.m
-5. PoisonFiniteMDP_GradientFree.m
-6. PoisonFiniteMDP_Bifurcation.m
-7. PoisonFiniteMDP_GradientDescent_autotune.m
-8. PoisonFiniteMDP_GradientFree_autotune.m
-8. PoisonFiniteMDP_Bifurcation_autotune.m
+- Algorithm 1: LimitedBI.m
+- Algorithm 2: LimitedBISmooth.m
+- Algorithm 3: Reverse Mode Automatic Differentiation
+- Algorithm 4: PoisonFiniteMDP_GradientDescent.m
+- Algorithm 5: PoisonFiniteMDP_GradientFree.m
+- Algorithm 6: PoisonFiniteMDP_Bifurcation.m
+- Algorithm 7: PoisonFiniteMDP_GradientDescent_autotune.m
+- Algorithm 8: PoisonFiniteMDP_GradientFree_autotune.m
+- Algorithm 8: PoisonFiniteMDP_Bifurcation_autotune.m
 
 ### Getting Started
 Each algorithm is saved in a separate Matlab file in the `src` directory. The results are collected in a zip file in the `results` directory. Download a zip of the project or clone it to your local machine to open the files in Matlab and run the algorithms.
