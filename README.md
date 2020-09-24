@@ -24,3 +24,4 @@ relative efficacy in terms of solution quality and computational effort
 for different finite-horizon MDP structures.
 
 ### Approach
+![Algorithms](docs/algorithms.png)
